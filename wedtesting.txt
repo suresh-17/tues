@@ -9,3 +9,5 @@ git checkout
 git clone
 
 git push
+
+git log
