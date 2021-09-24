@@ -11,3 +11,10 @@ git clone
 git push
 
 git log
+
+git stash
+
+hi thues
+
+bye
+
